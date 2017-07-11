@@ -800,7 +800,7 @@ if touchScroll is false - update index
 		}
 		util.handleUpdate();
 	};
-    scrollify.current = function() {
+    scrollify.currentIndex = function() {
         return index;
     };
 	scrollify.current = function() {
