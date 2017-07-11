@@ -151,6 +151,10 @@ The destroy method removes all Scrollify events and removes set heights from the
 
 The update method recalculates the heights and positions of the panels.
 
+`$.scrollify.currentindex()`
+
+The currentIndex method returns the current index of the section.
+
 `$.scrollify.current()`
 
 The current method returns the current section as a jQuery object.
